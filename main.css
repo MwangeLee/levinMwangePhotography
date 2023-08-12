@@ -4,7 +4,7 @@
   outline: none;
   border: none;
   box-sizing: border-box;
-  font-family: 'Times New Roman', Times, serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-decoration: none;
   list-style: none;
   transition: all 0.5s ease;
@@ -98,7 +98,7 @@ nav a:hover{
     padding-right: 60px;
     width: auto;
 }
-.header-content .firstline {
+  .header-content .firstline {
     z-index: 2;
     font-weight: 700;
     font-family: poppins;
@@ -159,7 +159,7 @@ nav a:hover{
   border-radius: 100px 10px;
 }
 .read-more {
-  color: #ebdb51 ;
+  color: #ffffff ;
   background-color: #033b3f;
   font-size: 14px;
   padding: 10px 25px;
@@ -167,18 +167,20 @@ nav a:hover{
   display: inline-block;
 }
 .read-more:hover {
-  background-color: #212121;
+  background-color: #ffa602;
+  opacity: 0.7;
 }
 .social-links{
   padding: 20px;
   justify-content: space-between;
 }
 .social-links a{
-  color: #033b3f;
+  color: #0b4e57;
 }
 .social-links a:hover{
-  color: #000000;
+  color: #ffa602;
   transition: transform 0.5s ease-in-out;
+  opacity: 0.8;
 }
 .social-links a i{
   font-size: 150%;
@@ -415,10 +417,12 @@ nav a:hover{
   /* copyright*/
  .copyright {
     text-align: center;
-    color: #f5d93c;
+    color: #ffa602;
     font-size: 20px;
     height: fit-content;
     background-color: #033b3f;
     padding: 30px;
+    border-radius: 30px 0px 30px 0px;
   }
+ 
  
