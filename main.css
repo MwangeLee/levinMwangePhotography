@@ -128,6 +128,11 @@ nav a:hover{
 }
 .about-us h2 {
   margin-left: 20px;
+  color: #033b3f;
+  font-size: 3em;
+  font-weight: bolder;
+  border-bottom: 3px solid #033b3f;
+  padding-bottom: 10px;
 }
 .about-us p {
   margin: 35px 0;
@@ -244,11 +249,12 @@ nav a:hover{
 .container2 .heading{
     width: 50%;
     padding-bottom: 50px;
+    color: #033b3f;
 }
 .container2 .heading h3{
     font-size: 3em;
     font-weight: bolder;
-    border-bottom: 3px solid #222;
+    border-bottom: 3px solid #033b3f;
     padding-bottom: 10px;
 
 }
