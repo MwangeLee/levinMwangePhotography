@@ -168,7 +168,6 @@ nav a:hover{
   align-items: center;
 }
 .read-more:hover {
-  background-color: #ffa602;
   opacity: 0.7;
 }
 .social-links{
@@ -178,9 +177,9 @@ nav a:hover{
 }
 .social-links a{
   color: #0b4e57;
+  padding: 5px;
 }
 .social-links a:hover{
-  color: #ffa602;
   transition: transform 0.5s ease-in-out;
   opacity: 0.8;
 }
