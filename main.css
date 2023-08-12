@@ -117,6 +117,9 @@ nav a:hover{
 }
 /* end header*/
 /* about */
+#about-us{
+  height: fit-content;
+}
 .about-us {
   padding: 80px;
   width: fit-content;
