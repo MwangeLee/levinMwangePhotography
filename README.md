@@ -1,5 +1,5 @@
 # levinMwangePhotography
-levinMwangePhotography is a minimal, thoughtfully designed single page website , and serves as the perfect showcase for a professional photographer. It shows his works plus his members
+levinMwangePhotography is a minimal, thoughtfully designed single page website , and serves as the perfect showcase for a professional photographer. It shows his works plus his members,The firm deals with various types of shots.
 
 # languages used
 This project was developed with Html and Css.
